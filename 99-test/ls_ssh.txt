@@ -1,0 +1,5 @@
+total 16K
+-rw------- 1 bagalov bagalov  739 Oct 30 22:31 authorized_keys
+-rw------- 1 bagalov bagalov 3.4K Oct 30 22:30 id_rsa
+-rw-r--r-- 1 bagalov bagalov  739 Oct 30 22:30 id_rsa.pub
+-rw-r--r-- 1 bagalov bagalov 1.1K Oct 30 23:12 known_hosts
